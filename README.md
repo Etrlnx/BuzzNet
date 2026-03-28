@@ -5,7 +5,8 @@ This repository contains a Kaggle notebook that leverages **Google’s YAMNet em
 - **Beneficial (1)**  
 
 The project integrates **TensorFlow Hub**, **Librosa**, and **Explainable AI (XAI)** techniques like **SHAP** and **Temporal Saliency** to ensure both accuracy and interpretability.
-
+Dataset link: https://www.kaggle.com/datasets/hesi0ne/insectsound1000?utm_source=copilot.com
+Kaggle notebook link: https://www.kaggle.com/code/samanyugupta2005/yamnet-pest-audio
 ---
 
 ## Dataset
