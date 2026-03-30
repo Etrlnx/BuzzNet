@@ -1,4 +1,4 @@
-# YAMNet-Pest-Audio: Pest vs Beneficial Insect Classification
+# BuzzNet: An Audio-Based Pest Detection System
 
 This repository contains a Kaggle notebook that leverages **Google’s YAMNet embeddings** and a **deep neural network** to classify insect audio recordings into two categories:  
 - **Pest (0)**  
